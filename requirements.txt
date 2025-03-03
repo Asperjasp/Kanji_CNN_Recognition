@@ -1,4 +1,4 @@
-torch
+ztorch
 opencv-python
 matplotlib
 numpy
